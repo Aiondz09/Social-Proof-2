@@ -1,0 +1,153 @@
+body {
+  height: 600px;
+  width: 1000px;
+  font-size: 15px;
+  background-color: white;
+  margin: 100px auto;
+}
+.BGM{
+  height: 300px;
+}
+
+.intro {
+  height: 600px;
+  width: 600px;
+}
+
+.h {
+  color: hsl(300, 43%, 22%);
+  font-size: 3rem;
+  font-family: 'Spartan', sans-serif;
+  margin-top: 40px;
+  margin-bottom: 0;
+  padding-left: 0;
+  font-weight: 700;
+  width: 500px;
+}
+
+.cl {
+  color: hsl(303, 10%, 53%);
+  font-size: 1rem;
+  margin: 8px 0 0;
+  padding-left: 0;
+  font-family: 'Spartan', sans-serif;
+  font-weight: 500;
+  width: 500px;
+  line-height: 25px;
+  }
+
+  .table-1 {
+    width: 400px;
+    height: 50px;
+    color: hsl(300, 43%, 22%);
+    background-color: hsl(300, 24%, 96%);
+    position: absolute;
+    padding: 5px 30px;
+    right: 525px;
+    top: 150px;
+    border-radius: 10px;
+  }
+
+  .table-2 {
+    width: 400px;
+    height: 50px;
+    color: hsl(300, 43%, 22%);
+    background-color: hsl(300, 24%, 96%);
+    position: absolute;
+    padding: 5px 30px;
+    right: 475px;
+    top: 230px;
+    border-radius: 10px;
+  }
+
+  .table-3 {
+    width: 400px;
+    height: 50px;
+    color: hsl(300, 43%, 22%);
+    background-color: hsl(300, 24%, 96%);
+    position: absolute;
+    padding: 5px 30px;
+    right: 425px;
+    top: 310px;
+    border-radius: 10px;
+  }
+
+  .rev {
+    font-size: .90rem;
+    font-weight: bold;
+    vertical-align: middle;
+    width: 70%;
+    font-family: 'Spartan', sans-serif;
+  }
+
+h1 {
+  color: White;
+  display: inline-block;
+  padding-left: 20px;
+  padding-top: 2px;
+  margin-top: 20px;
+  margin-bottom: 0;
+  font-family: 'Spartan', sans-serif;
+  font-size: 1rem;
+}
+
+h2{
+color: hsl(333, 80%, 67%);
+display: inline-block;
+padding-left: 20px;
+margin: 0;
+font-family: 'Spartan', sans-serif;
+font-weight: 400;
+font-size: .95rem;
+}
+
+p{
+color: White;
+display: inline-block;
+margin: 20px auto;
+font-family: 'Spartan', sans-serif;
+width: 320px;
+font-size: .82rem;
+line-height: 25px;
+}
+
+.CS{
+  background-color: hsl(300, 43%, 22%);
+  height: 200px;
+  margin-top: 75px;
+  width: 300px;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+ .IR{
+   background-color: hsl(300, 43%, 22%);
+   height: 200px;
+   width: 320px;
+   padding: 20px;
+   position: relative;
+   bottom: 220px;
+   left: 370px;
+   border-radius: 10px;
+ }
+
+  .AW {
+    background-color: hsl(300, 43%, 22%);
+    height: 200px;
+    width: 320px;
+    padding: 20px;
+    position: relative;
+    bottom: 440px;
+    left: 765px;
+    border-radius: 10px;
+  }
+
+img{
+  float: left;
+  margin: 18px 10px;
+  font-size: 1.5rem;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
